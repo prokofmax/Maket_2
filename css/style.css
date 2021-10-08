@@ -1,0 +1,21 @@
+* {margin: 0; padding: 0;}
+.header {
+	margin: auto;
+	width: 960px;
+	background: rgba(220, 220, 220, .5);
+	display: flex;
+	justify-content: center;
+}
+
+.header-logo {
+	background: #777;
+}
+
+.company-name {
+	font-size: 24px;
+	font-weight: 900;
+	color: #777;
+}
+.company-subtitle {
+	color: #777;
+}
