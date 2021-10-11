@@ -1,21 +1,70 @@
 * {margin: 0; padding: 0;}
-.header {
+body{
+	    font-family: 'PT Sans', sans-serif;
+}
+.header-wrap {
+	width: 100%;
+}
+.header{
+	background: #dcdc;
+	height: 170px;
+	width: 980px;
+	padding: 0 10px;
 	margin: auto;
-	width: 960px;
-	background: rgba(220, 220, 220, .5);
-	display: flex;
-	justify-content: center;
 }
-
-.header-logo {
-	background: #777;
+.logo{width: 80px;
+height: 80px; 
+background: #777;
+margin-top: 40px;
+} 
+.named{font-weight: 900;
+	font-size: 18px;
+	padding-left: 20px;
+	color: #777;
+	}
+.little{
+	font-weight: 400;
+	font-size: 13px;
+	color: #777;
+	padding-left: 20px;
+	width: 300px;
 }
-
-.company-name {
+.logs{ margin-top: 40px; }
+.cont{padding-top: 40px;
+	color: #777;
 	font-size: 24px;
-	font-weight: 900;
-	color: #777;
+	font-weight: 300;
 }
-.company-subtitle {
-	color: #777;
+.men{
+	background-color: #777;
+	height: 45px;
+	font-size: 20px;
+}
+.menu{width: 980px;
+	margin: auto;
+
+
+}
+
+.links{
+	padding: 5px 200	px;
+}
+
+.links a {
+	text-decoration: None;
+	color: whitesmoke;
+}
+.links a:hover {text-decoration: underline;
+color: whitesmoke;}
+
+.slider-wrap{
+	width: 100%;
+
+}
+.slider{
+	width: 980px;
+	margin: auto;
+	
+
+
 }
