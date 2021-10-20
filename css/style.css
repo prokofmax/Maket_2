@@ -68,3 +68,17 @@ color: whitesmoke;}
 
 
 }
+.block-main{
+	width: 980px;
+	height: 900px;
+	margin: auto;
+}
+.left-main{
+	width: 300px;
+	background: #777;
+	padding: 10px 20px;
+	margin: 30px 15px 0px 95px;
+	
+
+
+}
