@@ -1,84 +1,109 @@
-* {margin: 0; padding: 0;}
-body{
-	    font-family: 'PT Sans', sans-serif;
+* {
+    margin: 0;
+    padding: 0;
 }
+
+body {
+    font-family: 'PT Sans', sans-serif;
+}
+
 .header-wrap {
-	width: 100%;
-}
-.header{
-	background: #dcdc;
-	height: 170px;
-	width: 980px;
-	padding: 0 10px;
-	margin: auto;
-}
-.logo{width: 80px;
-height: 80px; 
-background: #777;
-margin-top: 40px;
-} 
-.named{font-weight: 900;
-	font-size: 18px;
-	padding-left: 20px;
-	color: #777;
-	}
-.little{
-	font-weight: 400;
-	font-size: 13px;
-	color: #777;
-	padding-left: 20px;
-	width: 300px;
-}
-.logs{ margin-top: 40px; }
-.cont{padding-top: 40px;
-	color: #777;
-	font-size: 24px;
-	font-weight: 300;
-}
-.men{
-	background-color: #777;
-	height: 45px;
-	font-size: 20px;
-}
-.menu{width: 980px;
-	margin: auto;
-
-
+    width: 100%;
 }
 
-.links{
-	padding: 5px 200	px;
+.header {
+    background: #dcdcdc;
+    height: 170px;
+    width: 980px;
+    padding: 0 10px;
+    margin: auto;
+}
+
+.logo {
+    width: 70px;
+    height: 70px;
+    background: #777;
+    margin-top: 40px
+}
+
+.named {
+    font-weight: 900;
+    font-size: 18px;
+    padding-left: 2px;
+    color: #777;
+}
+
+.little {
+    font-weight: 400;
+    font-size: 13px;
+    color: #777;
+    padding-left: 2px;
+    width: 300px;
+}
+
+.logs {
+    margin-top: 40px;
+}
+
+.cont {
+    padding-top: 40px;
+    color: #777;
+    font-size: 24px;
+    font-weight: 300;
+}
+
+.men {
+    background-color: #777;
+    height: 45px;
+    font-size: 20px;
+}
+
+.menu {
+    width: 980px;
+    margin: auto;
+}
+
+.links {
+    padding: 5px 200 px;
 }
 
 .links a {
-	text-decoration: None;
-	color: whitesmoke;
+    text-decoration: None;
+    color: whitesmoke;
 }
-.links a:hover {text-decoration: underline;
-color: whitesmoke;}
 
-.slider-wrap{
-	width: 100%;
-
+.links a:hover {
+    text-decoration: underline;
+    color: whitesmoke;
 }
-.slider{
-	width: 980px;
-	margin: auto;
-	
 
-
+.slider-wrap {
+    width: 100%;
 }
-.block-main{
-	width: 980px;
-	height: 900px;
-	margin: auto;
+
+.slider {
+    width: 980px;
+    margin: auto;
 }
-.left-main{
-	width: 300px;
-	background: #777;
-	padding: 10px 20px;
-	margin: 30px 15px 0px 95px;
-	
 
+.content-main {
+    width: 980px;
+    margin: auto;
+    background-color: #ffff;
+}
 
+.mane {
+    background-color: red;
+}
+
+.news {
+    background-color: #777;
+    padding: 10px;
+    height: 400px;
+    margin-left: 150px;
+    margin-top: 25px;
+}
+
+.test {
+    background-color: red;
 }
