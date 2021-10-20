@@ -100,10 +100,14 @@ body {
     background-color: #777;
     padding: 10px;
     height: 400px;
-    margin-left: 150px;
+    margin-left:100px;
     margin-top: 25px;
 }
 
 .test {
-    background-color: red;
+    background-color: white;
+    margin: 25px 0 0 60px;
+    width: 500px;
+    padding: 10px;
+    color: #777;
 }
