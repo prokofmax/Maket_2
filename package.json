@@ -1,0 +1,25 @@
+{
+  "name": "maket_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prokofmax/Maket_2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prokofmax/Maket_2/issues"
+  },
+  "homepage": "https://github.com/prokofmax/Maket_2#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.5",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.0.0",
+    "sass": "^1.43.2"
+  }
+}
