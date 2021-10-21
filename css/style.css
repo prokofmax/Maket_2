@@ -90,6 +90,7 @@ body {
     width: 980px;
     margin: auto;
     background-color: #ffff;
+    margin-bottom: 125px;
 }
 
 .mane {
@@ -111,3 +112,30 @@ body {
     padding: 10px;
     color: #777;
 }
+
+.m-f{
+    width: 100%;
+}
+.f-r{
+    width: 980px;
+    height: 150px;
+    background-color: #777;
+    margin: auto;
+}
+.ff{
+height: 100%;
+padding-top: 30px;
+font-size: 12px;}
+.tit{
+    color: whitesmoke;
+
+    padding: 0px 0 0 150px;
+}
+.linksus a {
+    text-decoration: underline;
+    color: whitesmoke;
+}
+.linksus a:hover {
+    text-decoration: underline;
+    color: whitesmoke;
+
