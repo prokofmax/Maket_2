@@ -142,3 +142,19 @@ font-size: 12px;}
     text-decoration: underline;
     color: whitesmoke;
 }
+.final{
+    
+    margin-left: 100px;
+}
+.clasus{
+    margin-left: 5px;
+}
+.clasus a{
+    text-decoration: underline;
+    color: whitesmoke;
+
+}
+.clasus a:hover {
+    text-decoration: underline;
+    color: whitesmoke;
+}
